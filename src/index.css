@@ -50,3 +50,8 @@ main {
   color: gray;
   margin-block: 7px;
 }
+
+.card--favorite-button {
+  border: none;
+  background: transparent;
+}
